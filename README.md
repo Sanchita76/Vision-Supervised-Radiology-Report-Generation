@@ -90,6 +90,8 @@ Existing research has investigated vision–language models for generating chest
 ##### Image Report Analysis<br/>
 <img width="356" height="664" alt="image" src="https://github.com/user-attachments/assets/b06a1b6d-7c67-4a64-ae22-0a9ad8694689" /><br/>
 <img width="470" height="564" alt="image" src="https://github.com/user-attachments/assets/269d2246-5004-4f19-9e5e-cd3a16e8dd27" /><br/>
+<img width="561" height="635" alt="image" src="https://github.com/user-attachments/assets/52ba9ad0-0029-4b2e-8b60-6192f0da8a45" /><br/>
+
 
 ##### Visual & Clinical Diversity<br/>
 <img width="451" height="592" alt="image" src="https://github.com/user-attachments/assets/ee7a344d-06aa-4b4d-bf56-0c8841a251dc" /><br/>
