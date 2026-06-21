@@ -54,7 +54,7 @@ The multi-modal radiology report summarization (MRRS) is a conditional generatio
 where, we seek the model parameters θ* that maximize the loglikelihood of the ground-truth target sequences S*, conditioned on the inputs, image I and text T, across all samples in our dataset D. Equivalently, this is the standard maximum likelihood estimation (MLE) objective adapted to conditional sequence modeling , θ* maximizes the sum of log-probabilities log P θ(S* / I, T).<br/>
 
 ### Architecture <br/>
-<img width="471" height="569" alt="image" src="https://github.com/user-attachments/assets/fd5c6da5-e49b-40cb-91d7-f89ee4a60ea4" /><br/>
+<img width="1201" height="569" alt="image" src="https://github.com/user-attachments/assets/efc1113b-8de4-4b87-b7f4-46dfaa949d85" /><br/>
 
 
 ### Contribution & Related Works<br/>
